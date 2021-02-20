@@ -1,24 +1,4 @@
-# t
+(!) La informacion y disponibilidad de estos lugares podria varia inesperadamente.
+Este documento es un intento de consolidar la informacion esparcida en diferentes redes sociales, todo aporte con informacion relevante es bienvenido.
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Para proponer un cambio puede enviar un Pull Request a este repositorio (Como hacer un pull request: https://www.youtube.com/watch?v=cZHP4tkUDsg) o escribirme por twitter a @vr1 (https://twitter.com/vr1_____)

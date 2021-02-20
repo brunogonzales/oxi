@@ -1,5 +1,5 @@
 <template>
-  <h1>Lugares donde recargan oxigeno durante la pandemia de COVID-19</h1>
+  <h1>Lugares donde recargar oxigeno durante la pandemia del COVID-19</h1>
   <div>
     <input
       type="text"
