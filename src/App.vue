@@ -1,5 +1,5 @@
 <template>
-  <h1>Lugares donde recargan oxigeno</h1>
+  <h1>Lugares donde recargan oxigeno durante la pandemia de COVID-19</h1>
   <div>
     <input
       type="text"
@@ -21,6 +21,11 @@
     <p v-if="place.openHours">Atencion: {{ place.openHours }}</p>
     <hr />
   </div>
+  <footer>
+    <a href="https://github.com/brunogonzales/oxi"
+      >Editar esta pagina en GitHub</a
+    >
+  </footer>
 </template>
 
 <script>
